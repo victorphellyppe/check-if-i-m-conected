@@ -1,0 +1,7 @@
+{
+  "name": "networkApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
